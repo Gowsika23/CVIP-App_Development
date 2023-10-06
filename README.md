@@ -1,12 +1,6 @@
 # CVIP-#App_Development
 # To Do App
-for : " + task)
 
-In the code above, which is for showing a popup message after the time seconds is finished off.
-
-Ezoic
-
-4. Complete Source Code
 import tkinter
 import threading
 from tkinter import messagebox
